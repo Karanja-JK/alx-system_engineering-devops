@@ -1,0 +1,4 @@
+#!/bin/bash
+hello $user
+hello "$USER"
+hello $USER
